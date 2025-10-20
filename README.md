@@ -1,11 +1,11 @@
 
-Image Synthesis Tool for Object Detection
+## Image Synthesis Tool for Object Detection
 
 
 🚀 A professional image synthesis tool for data augmentation in object detection tasks. Extracts objects from annotated datasets and synthesizes them onto background images with realistic transformations.
 
 
-Features
+## Features
 ​​Precise Object Extraction​​: Accurately crops objects from YOLO-format annotated datasets
 ​​Realistic Synthesis​​: Naturally blends objects onto background images with intelligent placement
 ​​Anti-overlap System​​: Automatically detects and prevents object overlapping
